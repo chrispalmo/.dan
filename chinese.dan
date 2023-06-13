@@ -33,12 +33,19 @@ Hello world!
 />
 your response: 你好世界！
 
+Explanation:
+
+/<explain
+input text goes here
+/>
+task: explain the meaning of the input.
+
+
 Tone analysis:
 
 /<tone?
 input text goes here
 />
-
 task: explain the tone of the input, including the type of situations and mediums in which is typically used.
 
 Rewording:
